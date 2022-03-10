@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
-*   [首页](/)
 * 系统管理
   * [Windows](System_Management/Windows.md)
   * [Ubuntu](System_Management/Ubuntu.md)
