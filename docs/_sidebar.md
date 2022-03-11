@@ -5,7 +5,8 @@
   * [System optimization](System_Management/Windows/system_optimization.md)
   * [System configuration](System_Management/Windows/system_configuration.md)
   * **Ubuntu**
-  * [Common commands](System_Management/Ubuntu/common_commands.md)  
+  * [Common commands](System_Management/Ubuntu/common_commands.md)
+  * [Software install](System_Management/Ubuntu/software_install.md) 
   * [System resource](System_Management/Ubuntu/system_resource.md)
   * [System configuration](System_Management/Ubuntu/system_configuration.md)
   * **Mac**
