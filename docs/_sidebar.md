@@ -5,9 +5,9 @@
   * [System Optimization](System_Management/Windows/system_optimization.md)
   * [System Configuration](System_Management/Windows/system_configuration.md)
   * **Ubuntu**
-  * [常用命令](System_Management/Ubuntu/common_commands.md)  
-  * [系统资源](System_Management/Ubuntu/system_resource.md)
-  * [系统配置](System_Management/Ubuntu/system_configuration.md)
+  * [Common Commands](System_Management/Ubuntu/common_commands.md)  
+  * [System Resource](System_Management/Ubuntu/system_resource.md)
+  * [System Configuration](System_Management/Ubuntu/system_configuration.md)
   * **Mac**
   * [Mac](System_Management/)
 * **编程开发**
