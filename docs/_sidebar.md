@@ -17,3 +17,4 @@
 * **基础学习**
 * **Computer composition and working principle**
   * [Computer overview](Basic_Learning/computer_overview.md)
+  * [Microelectronic Technology](Basic_Learning/microelectronic_technology.md)
