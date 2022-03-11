@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 * **系统管理**
-  * **Windows**
-  * [系统安装](System_Management/Windows/system_installation.md)
+  * [Windows](System_Management/Windows/)
   * [Ubuntu](System_Management/Ubuntu/)
   * **Mac**
   * [Mac](System_Management/Mac.md)
