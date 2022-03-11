@@ -1,9 +1,9 @@
 <!-- docs/_sidebar.md -->
 * **系统管理**
   * **Windows**
-  * [系统安装](System_Management/Windows/system_installation.md)
-  * [System Optimization](System_Management/Windows/)
-  * [System Configuration]((System_Management/Windows)
+  * [System Installation](System_Management/Windows/system_installation.md)
+  * [System Optimization](System_Management/Windows/system_optimization.md)
+  * [System Configuration](System_Management/Windows/system_configuration.md)
   * **Ubuntu**
   * [常用命令](System_Management/Ubuntu/common_commands.md)  
   * [系统资源](System_Management/Ubuntu/system_resource.md)
