@@ -201,6 +201,8 @@ rm -r ./src
 
 ### apt命令
 
+<!-- tabs:start -->
+
 #### 1.搜索软件包
 
 ```bash
@@ -232,6 +234,8 @@ sudo apt edit-sources #编辑软件源列表
 sudo apt autoclean #自动清除不需要的包
 sudo apt autoremove #自动删除不需要的包
 ```
+
+<!-- tabs:end -->
 
 在使用apt命令时，可能看到如下内容：
 
