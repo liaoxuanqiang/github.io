@@ -2,8 +2,7 @@
 * **系统管理**
   * [Windows](System_Management/Windows/)
   * [Ubuntu](System_Management/Ubuntu/)
-  * **Mac**
-  * [Mac](System_Management/Mac.md)
+  * [Mac](System_Management/)
 * **编程开发**
   * [Python](Programming_Development/Python.md)
   * [C#](Programming_Development/C#)
