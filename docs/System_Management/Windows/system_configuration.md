@@ -1,4 +1,9 @@
 # 开发环境配置
+
+Dev environment configuration
+
+------
+
 ## 设置 WSL 开发环境
 1.安装 WSL
 ```bash
