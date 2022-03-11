@@ -17,6 +17,6 @@
   * [Docker]()
 * **基础学习**
   * **计算机组成及工作原理**
-  * [计算机概述](Basic_Learning/computer_overview.md)
-  * [微电子技术](Basic_Learning/microelectronic_technology.md)
-  * [计算机的组成与工作原理](Basic_Learning/composition_and_working_principle_of_computer.md)
+  * [Computer overview](Basic_Learning/computer_overview.md)
+  * [Microelectronic technology](Basic_Learning/microelectronic_technology.md)
+  * [Composition and Working principle](Basic_Learning/composition_and_working_principle_of_computer.md)
