@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 * **系统管理**
   * **Windows**
-  * [Windows](System_Management/Windows.md)
+  * [系统安装](System_Management/Windows/system_installation.md)
   * **Ubuntu**
   * [系统资源](System_Management/Ubuntu/system_resource.md)
   * [常用命令](System_Management/Ubuntu/common_commands.md)
