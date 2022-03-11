@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 * **系统管理**
-* **Windows**
+  * **Windows**
   * [System Installation](System_Management/Windows/system_installation.md)
   * **Ubuntu**
   * [Common Commands](System_Management/Ubuntu/common_commands.md)
