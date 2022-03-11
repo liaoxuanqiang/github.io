@@ -14,9 +14,5 @@
   * [Python](Programming_Development/Python.md)
   * [C#](Programming_Development/C#)
   * [Docker]()
-* **软件应用**
-
-* **硬件设备**
-  * [小米 Mix2s]()
-* **知识学习**
-  * [计算机基础]()
+* **基础学习**
+  * [Computer Basics](Basic_Learning/computer_basics.md)
