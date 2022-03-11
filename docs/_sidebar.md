@@ -16,3 +16,4 @@
   * [Docker]()
 * **基础学习**
   * [Computer Basics](Basic_Learning/computer_basics.md)
+  * [Computer composition and working principle](Basic_Learning/computer_composition_and_working_principle.md)
