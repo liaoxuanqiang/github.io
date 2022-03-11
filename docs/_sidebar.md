@@ -2,11 +2,7 @@
 * **系统管理**
   * **Windows**
   * [系统安装](System_Management/Windows/system_installation.md)
-  * **Ubuntu**
-  * [系统资源](System_Management/Ubuntu/system_resource.md)
-  * [常用命令](System_Management/Ubuntu/common_commands.md)
-  * [系统配置](System_Management/Ubuntu/system_configuration.md)
-  * [软件安装](System_Management/Ubuntu/software_install.md)
+  * [Ubuntu](System_Management/Ubuntu/)
   * **Mac**
   * [Mac](System_Management/Mac.md)
 * **编程开发**
