@@ -8,7 +8,7 @@
   * [Ubuntu Software Resources](Ubuntu/Ubuntu%20Software%20Resources.md)
   * [Ubuntu system configuration](Ubuntu/Ubuntu%20system%20configuration.md)
 * **Mac**
-  * [Mac](System_Management/)
+  * [Hackintosh installation configuration](Mac/Hackintosh%20installation%20configuration.md)
 * **WSL**
   * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
 * **Git**
