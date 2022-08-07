@@ -8,7 +8,6 @@
   * [Common commands](System_Management/Ubuntu/common_commands.md)
   * [Software install](System_Management/Ubuntu/software_install.md) 
   * [System resource](System_Management/Ubuntu/system_resource.md)
-  * [System configuration](System_Management/Ubuntu/system_configuration.md)
   * **Mac**
   * [Mac](System_Management/)
 * **编程开发**
@@ -16,6 +15,7 @@
   * [C#](Programming_Development/C#)
   * [Docker]()
   * [Git](Programming_Development/Git.md)
+  * [WSL](Programming_Development/WSL.md)
 * **基础学习**
   * **计算机组成及工作原理**
   * [Computer overview](Basic_Learning/computer_overview.md)

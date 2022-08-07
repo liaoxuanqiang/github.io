@@ -1,6 +1,4 @@
-# 开发环境配置
-
-Dev environment configuration
+# WSL
 
 ------
 
