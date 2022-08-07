@@ -1,5 +1,4 @@
-# Ubuntu 常用命令
-Ubuntu common commands
+# Ubuntu 常用命令 Ubuntu common commands
 ------
 
 ## 身份权限管理及开关机
