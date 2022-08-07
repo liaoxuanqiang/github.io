@@ -1,4 +1,4 @@
-# WSL
+# WSL installation configuration
 
 ------
 

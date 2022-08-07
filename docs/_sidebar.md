@@ -10,7 +10,7 @@
 * **Mac**
   * [Mac](System_Management/)
 * **WSL**
-  * [WSL installation configuration](Development/WSL installation configuration.md)
+  * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
 * **Git**
   * [Git](Development/Git.md)
 
