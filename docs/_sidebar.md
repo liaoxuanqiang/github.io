@@ -1,23 +1,21 @@
 <!-- docs/_sidebar.md -->
-* **系统管理**
-  * **Windows**
+* **Windows**
   * [System installation](System_Management/Windows/system_installation.md)
   * [System optimization](System_Management/Windows/system_optimization.md)
   * [System configuration](System_Management/Windows/system_configuration.md)
-  * **Ubuntu**
+* **Ubuntu**
   * [Common commands](System_Management/Ubuntu/common_commands.md)
   * [Software install](System_Management/Ubuntu/software_install.md) 
   * [System resource](System_Management/Ubuntu/system_resource.md)
-  * **Mac**
+* **Mac**
   * [Mac](System_Management/)
-* **编程开发**
+* **Development**
+  * [WSL](Programming_Development/WSL.md)
+  * [Git](Programming_Development/Git.md)
   * [Python](Programming_Development/Python.md)
   * [C#](Programming_Development/C#)
   * [Docker]()
-  * [Git](Programming_Development/Git.md)
-  * [WSL](Programming_Development/WSL.md)
-* **基础学习**
-  * **计算机组成及工作原理**
+* **Computer Basic**
   * [Computer overview](Basic_Learning/computer_overview.md)
   * [Microelectronic technology](Basic_Learning/microelectronic_technology.md)
   * [Composition and Working principle](Basic_Learning/composition_and_working_principle_of_computer.md)
