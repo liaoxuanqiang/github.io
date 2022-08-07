@@ -11,13 +11,13 @@
   * [Mac](System_Management/)
 * **Development**
 * WSL
-  * [WSL installation configuration](Programming_Development/WSL.md)
+  * [WSL installation configuration](Development/WSL.md)
 * Git
-  * [Git](Programming_Development/Git.md)
+  * [Git](Development/Git.md)
 * Python
-  * [Python](Programming_Development/Python.md)
+  * [Python](Development/Python.md)
 * C#
-  * [C#](Programming_Development/C#)
+  * [C#](Development/C#)
 * Docker
   * [Docker]()
 * **Computer Basic**
