@@ -15,6 +15,7 @@
   * [Python](Programming_Development/Python.md)
   * [C#](Programming_Development/C#)
   * [Docker]()
+  * [Git](Programming_Development/Git.md)
 * **基础学习**
   * **计算机组成及工作原理**
   * [Computer overview](Basic_Learning/computer_overview.md)
