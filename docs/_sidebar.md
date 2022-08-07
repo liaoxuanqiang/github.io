@@ -1,8 +1,7 @@
 <!-- docs/_sidebar.md -->
 * **Windows**
-  * [System installation](System_Management/Windows/system_installation.md)
-  * [System optimization](System_Management/Windows/system_optimization.md)
-  * [System configuration](System_Management/Windows/system_configuration.md)
+  * [Windows system installation](Windows/Windows%20system%20installation.md)
+  * [Windows system optimization configuration](Windows/Windows%20system%20optimization%20configuration.md)
 * **Ubuntu**
   * [Ubuntu common commands](Ubuntu/Ubuntu%20common%20commands.md)
   * [Ubuntu package commands](Ubuntu/Ubuntu%20package%20commands.md)
