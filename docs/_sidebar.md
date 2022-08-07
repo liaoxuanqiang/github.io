@@ -8,7 +8,10 @@
   * [Ubuntu Software Resources](Ubuntu/Ubuntu%20Software%20Resources.md)
   * [Ubuntu system configuration](Ubuntu/Ubuntu%20system%20configuration.md)
 * **Mac**
+  * [Hackintosh EFI configuration](Mac/Hackintosh%20EFI%20configuration.md)
   * [Hackintosh installation configuration](Mac/Hackintosh%20installation%20configuration.md)
+  * [Hackintosh installation software](Mac/Hackintosh%20installation%20software.md)
+  * [Hackintosh optimization settings](Mac/Hackintosh%20optimization%20settings.md)
 * **WSL**
   * [WSL commands](WSL/WSL%20commands.md)
   * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
