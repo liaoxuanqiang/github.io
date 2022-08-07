@@ -10,11 +10,12 @@
 * **Mac**
   * [Hackintosh installation configuration](Mac/Hackintosh%20installation%20configuration.md)
 * **WSL**
+  * [WSL commands](WSL/WSL%20commands.md)
   * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
 * **Git**
-  * [Git](Development/Git.md)
+  * [Git installation configuration](Git/Git%20installation%20configuration.md)
 
 * **Computer Basic**
   * [Computer overview](Computer_Basic/computer_overview.md)
   * [Microelectronic technology](Computer_Basic/microelectronic_technology.md)
-  * [Composition and Working principle](Computer_Basic/composition_and_working_principle_of_computer.md)
+  * [Composition and Working principle](Computer_Basic/composition_and_working_principle_of_computer.md)S
