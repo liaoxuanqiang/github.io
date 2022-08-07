@@ -12,6 +12,8 @@
   * [Hackintosh installation configuration](Mac/Hackintosh%20installation%20configuration.md)
   * [Hackintosh installation software](Mac/Hackintosh%20installation%20software.md)
   * [Hackintosh optimization settings](Mac/Hackintosh%20optimization%20settings.md)
+* **Docker**
+  * [Docker installation configuration]()
 * **WSL**
   * [WSL commands](WSL/WSL%20commands.md)
   * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
