@@ -11,7 +11,7 @@
   * [Mac](System_Management/)
 * **Development**
 * WSL
-  * [WSLInstall configuration](Programming_Development/WSL.md)
+  * [WSL installation configuration](Programming_Development/WSL.md)
 * Git
   * [Git](Programming_Development/Git.md)
 * Python
