@@ -5,7 +5,7 @@ WSL command
 ------
 ## WSL 基本命令
 
-```
+```powershell
 wsl --install #安装 WSL 和 Linux 的 Ubuntu 发行版
 wsl --install -d <Distribution Name> #安装特定的 Linux 发行版
 wsl --list --online #列出可用的 Linux 发行版
@@ -27,7 +27,7 @@ wsl --mount <DiskPath> #装载磁盘或设备
 
 ## 在 WSL 上运行Linux GUI应用
 
-```
+```bash
 sudo apt update #更新发行版中的包
 sudo apt install gedit -y #安装 Gedit，若要在编辑器中启动 bashrc 文件，请输入：gedit ~/.bashrc
 sudo apt install gimp -y #安装 GIMP，若要启动，请输入：gimp
@@ -38,7 +38,7 @@ sudo apt install x11-apps -y #安装 X11 应用，若要启动，请输入要使
 
 ## 在 WSL 上安装Google Chrome
 
-```
+```bash
 cd /tmp #将目录更改为 temp 文件夹
 sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb #使用 wget 下载Google Chrome
 sudo dpkg -i google-chrome-stable_current_amd64.deb #获取当前稳定版本
@@ -50,7 +50,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb #配置包
 
 ## 在 WSL 上安装Microsoft Teams
 
-```
+```bash
 cd /tmp #将目录更改为 temp 文件夹
 sudo curl -L -o "./teams.deb" "https://teams.microsoft.com/downloads/desktopurl?env=production&plat=linux&arch=x64&download=true&linuxArchiveType=deb" #使用 curl 下载包
 sudo apt install ./teams.deb -y #使用 apt 安装Microsoft Teams
@@ -62,7 +62,7 @@ sudo apt install ./teams.deb -y #使用 apt 安装Microsoft Teams
 
 ## 在 WSL 上安装 Node.js
 
-```
+```bash
 sudo apt-get install curl #安装 cURL（用于在命令行中从 Internet 下载内容的工具）
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash #安装 nvm
 command -v nvm #验证安装
@@ -73,3 +73,4 @@ nvm ls #列出安装的 Node 版本
 node --version #验证 Node.js 是否已安装，以及是否为当前默认版本
 npm --version #验证是否也有 npm
 ```
+
