@@ -1,4 +1,10 @@
-# Git Install configuration
+# Git 安装配置
+
+Git Install configuration
+
+------
+
+
 
 ## Install configuration
 
@@ -28,6 +34,23 @@ ssh-keygen -t rsa -C "liaoxuanqiang@live.com" # 创建ssh key
 cat .ssh/id_rsa.pub # 查看.ssh/id_rsa.pub文件并复制key,在GitHub设置中添加ssh key
 ssh -T git@github.com # 链接验证
 ```
+
+#### Debian&Ubuntu
+
+```bash
+apt-get install git #Ubuntu安装Git命令
+
+add-apt-repository ppa:git-core/ppa 
+apt update; apt install git
+
+git config --global user.email "liaoxuanqiang@live.com" # 配置邮箱
+git config --global user.name "liaoxuanqiang" # 配置用户名
+ssh-keygen -t rsa -C "liaoxuanqiang@live.com" # 创建ssh key
+cat .ssh/id_rsa.pub # 查看.ssh/id_rsa.pub文件并复制key,在GitHub设置中添加ssh key
+ssh -T git@github.com # 链接验证
+```
+
+
 
 ## Configure proxy
 
