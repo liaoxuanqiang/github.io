@@ -1,4 +1,6 @@
-# Ubuntu 系统配置 Ubuntu system configuration
+# Ubuntu 系统配置 
+
+Ubuntu system configuration
 
 ------
 

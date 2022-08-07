@@ -1,9 +1,10 @@
-# Ubuntu 软件包命令 Ubuntu package commands
+# Ubuntu 软件包命令 
+
+Ubuntu package commands
+
 ------
 
 ## apt命令
-
-<!-- tabs:start -->
 
 ### 1.搜索软件包
 
