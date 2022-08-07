@@ -21,6 +21,6 @@
 * Docker
   * [Docker]()
 * **Computer Basic**
-  * [Computer overview](Basic_Learning/computer_overview.md)
-  * [Microelectronic technology](Basic_Learning/microelectronic_technology.md)
-  * [Composition and Working principle](Basic_Learning/composition_and_working_principle_of_computer.md)
+  * [Computer overview](Computer_Basic/computer_overview.md)
+  * [Microelectronic technology](Computer_Basic/microelectronic_technology.md)
+  * [Composition and Working principle](Computer_Basic/composition_and_working_principle_of_computer.md)
