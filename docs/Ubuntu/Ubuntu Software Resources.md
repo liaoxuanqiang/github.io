@@ -1,5 +1,4 @@
-# 系统资源
-
+# Ubuntu Software Resources
 ------
 
 ## Ubuntu 镜像

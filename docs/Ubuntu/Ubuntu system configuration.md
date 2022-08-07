@@ -1,4 +1,4 @@
-# 系统配置
+# Ubuntu system configuration
 
 ------
 
