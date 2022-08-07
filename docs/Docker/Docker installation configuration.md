@@ -4,6 +4,10 @@ Docker installation configuration
 
 ------
 
+Docker 官网：[https://www.docker.com](https://www.docker.com/)
+
+Github Docker 源码：https://github.com/docker/docker-ce
+
 ## Install Docker
 
 ### Windwos
@@ -54,4 +58,15 @@ docker system prune -a --volumes
 ```bash
 sudo apt purge docker-ce
 sudo apt autoremove
+```
+
+### Docker 软件源
+
+```
+阿里云 https://8nvn6pbc.mirror.aliyuncs.com
+腾讯云 https://mirror.ccs.tencentyun.com
+华为云 https://05f073ad3c0010ea0f4bc00b7105ec20.mirror.swr.myhuaweicloud.com
+Docker中国 https://registry.docker-cn.com
+网易 http://hub-mirror.c.163.com daocloud http://f1361db2.m.daocloud.io
+中国科技大学 https://docker.mirrors.ustc.edu.cn
 ```
