@@ -1,5 +1,4 @@
-# Ubuntu 软件包命令
-Ubuntu package commands
+# Ubuntu 软件包命令 Ubuntu package commands
 ------
 
 ## apt命令
