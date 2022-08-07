@@ -1,6 +1,4 @@
-## Mac OS
-
-## Hackintosh 安装
+## Hackintosh 安装配置
 
 ### 1.下载 Mac OS 镜像
 
