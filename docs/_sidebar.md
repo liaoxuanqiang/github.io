@@ -9,11 +9,15 @@
   * [System resource](System_Management/Ubuntu/system_resource.md)
 * **Mac**
   * [Mac](System_Management/)
-* **Development**
-  * [WSL](Programming_Development/WSL.md)
+* **WSL**
+  * [WSLInstall configuration](Programming_Development/WSL.md)
+* **Git**
   * [Git](Programming_Development/Git.md)
+* **Python**
   * [Python](Programming_Development/Python.md)
+* **C#**
   * [C#](Programming_Development/C#)
+* **Docker**
   * [Docker]()
 * **Computer Basic**
   * [Computer overview](Basic_Learning/computer_overview.md)
