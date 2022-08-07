@@ -1,7 +1,5 @@
-# 系统优化 
-
-System Optimization
-
+# Windows 系统优化配置
+Windows system optimization configuration
 ------
 
 1.电源管理启动卓越性能模式

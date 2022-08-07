@@ -1,7 +1,5 @@
-# 系统安装
-
-System installation
-
+# Windows 系统安装
+Windows system installation
 ------
 
 1.查询最新版 Windows11 系统信息
