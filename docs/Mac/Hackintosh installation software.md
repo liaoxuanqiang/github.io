@@ -4,8 +4,6 @@ Hackintosh installation software
 
 ------
 
-
-
 #### iTerm2
 
 #### Homebrew

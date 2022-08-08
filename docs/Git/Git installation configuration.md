@@ -4,8 +4,6 @@ Git Install configuration
 
 ------
 
-
-
 ## Install configuration
 
 ### Windows

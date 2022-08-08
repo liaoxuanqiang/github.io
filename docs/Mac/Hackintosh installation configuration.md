@@ -4,8 +4,6 @@ Hackintosh installation configuration
 
 ------
 
-
-
 ### 1.下载 Mac OS 镜像
 
 - [macOS Monterey 12.x](https://github.com/liaoxuanqiang/System-use-management/blob/main/Mac OS)

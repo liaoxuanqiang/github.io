@@ -4,8 +4,6 @@ LaTex syntax
 
 ------
 
-
-
 ## 文档类型
 
 TeX有多种文档类型可选，笔者较常用的有如下几种类型： - 对于英文，可以用`book`、`article`和`beamer`； - 对于中文，可以用`ctexbook`、`ctexart`和`ctexbeamer`，这些类型自带了对中文的支持。

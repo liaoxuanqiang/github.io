@@ -4,8 +4,6 @@ Hackintosh optimization settings
 
 ------
 
-
-
 #### 1.Remove 4-digit password restriction
 
 ```bash
