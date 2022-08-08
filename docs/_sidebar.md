@@ -17,7 +17,9 @@
   * [Docker installation configuration](Docker/Docker%20installation%20configuration.md)
   * [Docker install container](Docker/Docker%20install%20container.md)
 * **LaTex**
-  * []
+  * [Introduction to LaTeX](LaTex/Introduction%20to%20LaTeX.md)
+  * [LaTex syntax](LaTex/LaTex%20syntax.md)
+  * [LaTex input math formula](LaTex/LaTex%20input%20math%20formula.md)
 * **WSL**
   * [WSL commands](WSL/WSL%20commands.md)
   * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
@@ -27,4 +29,4 @@
 * **Computer Basic**
   * [Computer overview](Computer_Basic/computer_overview.md)
   * [Microelectronic technology](Computer_Basic/microelectronic_technology.md)
-  * [Composition and Working principle](Computer_Basic/composition_and_working_principle_of_computer.md)S
+  * [Composition and Working principle](Computer_Basic/composition_and_working_principle_of_computer.md)
