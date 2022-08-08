@@ -144,6 +144,12 @@ snap格式软件包应用商店：[https://snapcraft.io/store](https://snapcraft
 
 可以使用Find snaps功能搜索仓库，迅速找到所需要的程序。
 
+```
+sudo apt-get install snapd
+
+sudo apt-get install snapcraft
+
+```
 ### snap使用命令
 
 #### 1.搜索软件包
