@@ -16,6 +16,8 @@
   * [Docker commands](Docker/Docker%20commands.md)
   * [Docker installation configuration](Docker/Docker%20installation%20configuration.md)
   * [Docker install container](Docker/Docker%20install%20container.md)
+* **LaTex**
+  * []
 * **WSL**
   * [WSL commands](WSL/WSL%20commands.md)
   * [WSL installation configuration](WSL/WSL%20installation%20configuration.md)
